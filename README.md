@@ -1,9 +1,11 @@
 # Öffentliche Unterlagen des Studiengangs Informatik an der HSI/FHNW
 
-Informationsevent: 
-Folien: 
+## Informationsevents
 
-## Nützliche Links
+Folien: [Präsentation_August_2025.pdf](Files/Pr%C3%A4sentation_August_2025.pdf)
 
+## Videos
 
-## Kontakte
+FHNW: https://www.youtube.com/watch?v=DGA3gFw2ocI
+
+iCompetence: https://tube.switch.ch/channels/aZS6Osp61O

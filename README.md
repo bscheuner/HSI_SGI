@@ -1,5 +1,7 @@
 # Öffentliche Unterlagen des Studiengangs Informatik an der HSI/FHNW
 
+// 
+
 ## Informationsevents
 
 Folien: [Präsentation_August_2025.pdf](Files/Pr%C3%A4sentation_August_2025.pdf)

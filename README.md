@@ -15,7 +15,9 @@ Informatik-Studiengang: [https://css-fhnw.ch/](https://css-fhnw.ch/)
 - Studiengang: [https://www.fhnw.ch/de/studium/informatik/informatik](https://www.fhnw.ch/de/studium/informatik/informatik)
 - iCompetence: [https://www.fhnw.ch/de/studium/informatik/icompetence](https://www.fhnw.ch/de/studium/informatik/icompetence)
 - AI&HPC: [https://www.fhnw.ch/de/studium/informatik/ai-hpc](https://www.fhnw.ch/de/studium/informatik/ai-hpc)
-
+- Secutity, Platforms & DevOps: Start im FS26
+- Software Engineering & Intelligent Technologies: Start im HS26 in Basel
+ 
 Projektarbeiten: [https://css-fhnw.ch/studierendenprojekte/](https://css-fhnw.ch/studierendenprojekte/)
 
 ## Videos

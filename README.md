@@ -4,6 +4,8 @@
 
 ## Informationsevents
 
+Folien: [Präsentation_November_6_2025.pdf](Files/Präsentation_November_6_2025.pdf)
+
 Folien: [Präsentation_Oktober_SPD_2025.pdf](Files/Präsentation_Oktober_SPD_2025.pdf)
 
 Folien: [Präsentation_August_2025.pdf](Files/Pr%C3%A4sentation_August_2025.pdf)

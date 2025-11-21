@@ -4,6 +4,8 @@
 
 ## Informationsevents
 
+Folien: [Präsentation_November_20_2025.pdf (Informatik & Software Engineering & Intelligent Technologies)](Files/Präsentation_November_SEIT_2025.pdf)
+
 Folien: [Präsentation_November_6_2025.pdf](Files/Präsentation_November_6_2025.pdf)
 
 Folien: [Präsentation_Oktober_SPD_2025.pdf](Files/Präsentation_Oktober_SPD_2025.pdf)

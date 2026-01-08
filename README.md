@@ -4,7 +4,7 @@
 
 ## Informationsevents
 
-Folien: [Präsentation_Januar_2026.pdf](Files/Präsentation_Januar_01_2026.pdf)
+Folien: [Präsentation_Januar_01_2026.pdf](Files/Präsentation_Januar_01_2026.pdf)
 
 Folien: [Präsentation_November_20_2025.pdf](Files/Präsentation_November_SEIT_2025.pdf)
 
